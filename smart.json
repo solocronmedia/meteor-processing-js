@@ -3,7 +3,7 @@
   "description": "Processing.js: data visualization, interactive art and more (for the web!)",
   "homepage": "https://github.com/DylanLukes/meteor-processing-js.git",
   "author": "Dylan Lukes <lukes.dylan@gmail.com>",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "git": "https://github.com/DylanLukes/meteor-processing-js.git",
   "packages": {}
 }
